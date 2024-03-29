@@ -1,4 +1,3 @@
-pandas
-matplotlib
-seaborn
-numpy
+-c requirements-dev.in
+jupyter
+ipykernel
